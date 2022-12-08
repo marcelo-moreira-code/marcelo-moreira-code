@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcelo-moreira-code
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning python ,javascript and SQL 
+- 🌱 I’m currently learning Python ,JavaScript and SQL 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> contatomarcelomoreira.code@gmail.com
 
