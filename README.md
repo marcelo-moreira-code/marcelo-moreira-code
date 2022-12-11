@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcelo-moreira-code
-- 👀 I’m interested in ...
+- 👀 No man is really happy or safe without a hobby. – William Osler
 - 🌱 I’m currently learning Python ,JavaScript and SQL 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> contatomarcelomoreira.code@gmail.com
