@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcelo-moreira-code
 - 👀 No man is really happy or safe without a hobby. – William Osler
-- 🌱 I’m currently learning Python ,JavaScript and MySQL 
+- 🌱 I’m currently learning Python, DJANGO and MySQL 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> contatomarcelomoreira.code@gmail.com
 
